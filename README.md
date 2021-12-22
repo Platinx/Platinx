@@ -61,9 +61,9 @@ and popular exchanges like;
 • CoinGecko and Similar
 
 <h1> Tokenomics </h1>
-Token Name - PlatinX
-Token Symbol - PTX
-Total supply - 51,00,00,000
-Joining - 500 tokens ( Minimum ) 
-Token Network - BEP20
+Token Name - PlatinX,
+Token Symbol - PTX,
+Total supply - 51,00,00,000,
+Joining - 500 tokens ( Minimum ) ,
+Token Network - BEP20,
 Block chain - Binance
