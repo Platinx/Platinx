@@ -1,4 +1,4 @@
--# Platinx
+<h1> Platinx </h1>
 Welcome to Platinx
 
 
