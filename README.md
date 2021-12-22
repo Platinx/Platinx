@@ -1,6 +1,6 @@
 <h1> Platinx </h1>
-Welcome to Platinx
 
+Welcome to Platinx
 
 Crypto PlatinX is a Financial technology (FinTech) based 
 Company which uses technology and innovation that aims to 
